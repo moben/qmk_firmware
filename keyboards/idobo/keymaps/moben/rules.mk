@@ -15,7 +15,6 @@
 
 USER_NAME := manna-harbour_miryoku
 
-#Had to disable the first 2 to get the firmware size down enough after enabling the rgb controls.
-RGBLIGHT_ENABLE = yes        # Enable keyboard RGB underglow
+RGBLIGHT_ENABLE = yes     # Enable keyboard RGB underglow
 
 MIRYOKU_EXTRA_LAYERS = "COLEMAKDH_NO_HOLD_L, COLEMAKDH_NO_HOLD_R, QWERTY_NO_HOLD_L, QWERTY_NO_HOLD_R"
